@@ -19,4 +19,8 @@ https://docs.python.org/3.11/library/exceptions.html
 **GitHub Link:**<br>
 https://github.com/toarnabtrainer/Python_February_Batch
 
+**MatPlotLib Official Link:**<br>
+https://matplotlib.org/
 
+**Seaborn Official Link:**<br>
+https://seaborn.pydata.org/
